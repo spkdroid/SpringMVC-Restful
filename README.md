@@ -198,4 +198,4 @@ Use a tool like Postman or cURL to test the RESTful API:
 5. **Delete a book by ID:**
    - Endpoint: `DELETE http://localhost:8080/api/books/{id}`
 
-These are basic examples, and you can expand the functionality based on your application requirements. This example illustrates the fundamental concepts of building a RESTful service with Spring MVC.
+This example illustrates the fundamental concepts of building a RESTful service with Spring MVC.
